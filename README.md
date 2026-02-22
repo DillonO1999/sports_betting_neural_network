@@ -13,9 +13,9 @@ pip install -r requirements.txt
 
 ## Usage 
 ```bash
-python3 sports_betting_ml.py
+python3 html_generator.py
 
 # OR
 
-./sports_betting_ml.py  # might have to use chmod to make it an executable first
+./html_generator.py  # might have to use chmod to make it an executable first
 ```
